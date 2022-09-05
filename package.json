@@ -1,0 +1,23 @@
+{
+  "name": "codemod-sandbox",
+  "version": "1.0.0",
+  "description": "A sandbox to play and learn about code mods",
+  "main": "codemod-simple-fixtures.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathansamines/codemod-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathansamines/codemod-sandbox/issues"
+  },
+  "homepage": "https://github.com/jonathansamines/codemod-sandbox#readme",
+  "dependencies": {
+    "jscodeshift": "^0.13.1"
+  }
+}
